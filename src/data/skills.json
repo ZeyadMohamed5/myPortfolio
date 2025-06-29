@@ -1,0 +1,45 @@
+[
+  {
+    "title": "React",
+    "img": "/assets/react.png"
+  },
+  {
+    "title": "TailwindCss",
+    "img": "/assets/TailwindCss.png"
+  },
+  {
+    "title": "BootStrap",
+    "img": "/assets/bootstrap.png"
+  },
+
+  {
+    "title": "javaScript",
+    "img": "/assets/js.png"
+  },
+  {
+    "title": "TypeScript",
+    "img": "/assets/typescript.png"
+  },
+
+  {
+    "title": "Mongodb",
+    "img": "/assets/mongodb.svg"
+  },
+
+  {
+    "title": "express Js",
+    "img": "/assets/expressJs.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "img": "/assets/postgre.png"
+  },
+  {
+    "title": "Prisma",
+    "img": "/assets/prisma.png"
+  },
+  {
+    "title": "Framer Motion",
+    "img": "/assets/framermotion.svg"
+  }
+]
