@@ -51,7 +51,7 @@ const ProjectCard = ({ title, link, skills, desc }) => {
             w-10 h-10 flex items-center justify-center"
           >
             <img
-              src="/assets/backlink.svg"
+              src="./assets/backlink.svg"
               alt="External link"
               className="w-4 h-4 sm:w-5 sm:h-5 opacity-80 group-hover:opacity-100 group-hover:scale-110 transition-transform duration-200"
               style={{

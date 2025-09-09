@@ -49,7 +49,7 @@ const PorfolioContent = () => {
               </div>
               <div className="absolute inset-[3px] z-10 rounded-full overflow-hidden">
                 <img
-                  src="/assets/fig1.jpeg"
+                  src="./assets/fig1.jpeg"
                   alt="zeyad's avatar"
                   className="w-full h-full object-cover rounded-full"
                 />

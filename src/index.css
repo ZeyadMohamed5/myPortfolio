@@ -26,6 +26,8 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+
 .animate-shooting-star {
   animation-name: shooting-star;
   animation-timing-function: linear;

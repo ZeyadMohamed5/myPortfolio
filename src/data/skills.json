@@ -1,45 +1,45 @@
 [
   {
     "title": "React",
-    "img": "/assets/react.png"
+    "img": "./assets/react.png"
   },
   {
     "title": "TailwindCss",
-    "img": "/assets/TailwindCss.png"
+    "img": "./assets/TailwindCss.png"
   },
   {
     "title": "BootStrap",
-    "img": "/assets/bootstrap.png"
+    "img": "./assets/bootstrap.png"
   },
 
   {
     "title": "javaScript",
-    "img": "/assets/js.png"
+    "img": "./assets/js.png"
   },
   {
     "title": "TypeScript",
-    "img": "/assets/typescript.png"
+    "img": "./assets/typescript.png"
   },
 
   {
     "title": "Mongodb",
-    "img": "/assets/mongodb.svg"
+    "img": "./assets/mongodb.svg"
   },
 
   {
     "title": "express Js",
-    "img": "/assets/expressJs.png"
+    "img": "./assets/expressJs.png"
   },
   {
     "title": "PostgreSQL",
-    "img": "/assets/postgre.png"
+    "img": "./assets/postgre.png"
   },
   {
     "title": "Prisma",
-    "img": "/assets/prisma.png"
+    "img": "./assets/prisma.png"
   },
   {
     "title": "Framer Motion",
-    "img": "/assets/framermotion.svg"
+    "img": "./assets/framermotion.svg"
   }
 ]
